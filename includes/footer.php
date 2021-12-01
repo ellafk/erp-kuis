@@ -46,22 +46,22 @@
   </div>
 
   <!-- Bootstrap core JavaScript-->
-  <script src="https://objectstorage.ap-melbourne-1.oraclecloud.com/p/zIYp9Jkt_4noU48ssRv_scqDbsVf557KmuGcRMF9ozf0tC7ZFvLHFXrSf7-fAj5D/n/axmyzxfexh3t/b/uts/o/jquery.min.js"></script>
-  <script src="https://objectstorage.ap-melbourne-1.oraclecloud.com/p/zIYp9Jkt_4noU48ssRv_scqDbsVf557KmuGcRMF9ozf0tC7ZFvLHFXrSf7-fAj5D/n/axmyzxfexh3t/b/uts/o/bootstrap.bundle.min.js"></script>
+  <script src="https://objectstorage.ap-melbourne-1.oraclecloud.com/p/SbSk9Ygm0BfOxBvPO4sg8_z-bLyZ2fpNOkkBi9koRI13SjvO6VrDIa_RJPepshv1/n/axjhiho8mtpi/b/erp-kuis/o/jquery.min.js"></script>
+  <script src="https://objectstorage.ap-melbourne-1.oraclecloud.com/p/SbSk9Ygm0BfOxBvPO4sg8_z-bLyZ2fpNOkkBi9koRI13SjvO6VrDIa_RJPepshv1/n/axjhiho8mtpi/b/erp-kuis/o//bootstrap.bundle.min.js"></script>
 
   <!-- Core plugin JavaScript-->
-  <script src="https://objectstorage.ap-melbourne-1.oraclecloud.com/p/zIYp9Jkt_4noU48ssRv_scqDbsVf557KmuGcRMF9ozf0tC7ZFvLHFXrSf7-fAj5D/n/axmyzxfexh3t/b/uts/o/jquery.easing.min.js"></script>
+  <script src="https://objectstorage.ap-melbourne-1.oraclecloud.com/p/SbSk9Ygm0BfOxBvPO4sg8_z-bLyZ2fpNOkkBi9koRI13SjvO6VrDIa_RJPepshv1/n/axjhiho8mtpi/b/erp-kuis/o/jquery.easing.min.js"></script>
 
   <!-- Custom scripts for all pages-->
-  <script src="https://objectstorage.ap-melbourne-1.oraclecloud.com/p/zIYp9Jkt_4noU48ssRv_scqDbsVf557KmuGcRMF9ozf0tC7ZFvLHFXrSf7-fAj5D/n/axmyzxfexh3t/b/uts/o/sb-admin-2.min.js"></script>
+  <script src="https://objectstorage.ap-melbourne-1.oraclecloud.com/p/SbSk9Ygm0BfOxBvPO4sg8_z-bLyZ2fpNOkkBi9koRI13SjvO6VrDIa_RJPepshv1/n/axjhiho8mtpi/b/erp-kuis/o/sb-admin-2.min.js"></script>
 
   <!-- Page level plugins -->
-  <script src="https://objectstorage.ap-melbourne-1.oraclecloud.com/p/zIYp9Jkt_4noU48ssRv_scqDbsVf557KmuGcRMF9ozf0tC7ZFvLHFXrSf7-fAj5D/n/axmyzxfexh3t/b/uts/o/jquery.dataTables.min.js"></script>
-  <script src="https://objectstorage.ap-melbourne-1.oraclecloud.com/p/zIYp9Jkt_4noU48ssRv_scqDbsVf557KmuGcRMF9ozf0tC7ZFvLHFXrSf7-fAj5D/n/axmyzxfexh3t/b/uts/o/dataTables.bootstrap4.min.js"></script>
+  <script src="https://objectstorage.ap-melbourne-1.oraclecloud.com/p/SbSk9Ygm0BfOxBvPO4sg8_z-bLyZ2fpNOkkBi9koRI13SjvO6VrDIa_RJPepshv1/n/axjhiho8mtpi/b/erp-kuis/o/jquery.dataTables.min.js"></script>
+  <script src="https://objectstorage.ap-melbourne-1.oraclecloud.com/p/SbSk9Ygm0BfOxBvPO4sg8_z-bLyZ2fpNOkkBi9koRI13SjvO6VrDIa_RJPepshv1/n/axjhiho8mtpi/b/erp-kuis/o/dataTables.bootstrap4.min.js"></script>
 
   <!-- Page level custom scripts -->
-  <script src="https://objectstorage.ap-melbourne-1.oraclecloud.com/p/zIYp9Jkt_4noU48ssRv_scqDbsVf557KmuGcRMF9ozf0tC7ZFvLHFXrSf7-fAj5D/n/axmyzxfexh3t/b/uts/o/datatables-demo.js"></script>
-  <script src="https://objectstorage.ap-melbourne-1.oraclecloud.com/p/zIYp9Jkt_4noU48ssRv_scqDbsVf557KmuGcRMF9ozf0tC7ZFvLHFXrSf7-fAj5D/n/axmyzxfexh3t/b/uts/o/city.js"></script> 
+  <script src="https://objectstorage.ap-melbourne-1.oraclecloud.com/p/SbSk9Ygm0BfOxBvPO4sg8_z-bLyZ2fpNOkkBi9koRI13SjvO6VrDIa_RJPepshv1/n/axjhiho8mtpi/b/erp-kuis/o/datatables-demo.js"></script>
+  <script src="https://objectstorage.ap-melbourne-1.oraclecloud.com/p/SbSk9Ygm0BfOxBvPO4sg8_z-bLyZ2fpNOkkBi9koRI13SjvO6VrDIa_RJPepshv1/n/axjhiho8mtpi/b/erp-kuis/o/city.js"></script> 
   
 
 <!-- PROFILE OVERLAY NA MODAL -->
