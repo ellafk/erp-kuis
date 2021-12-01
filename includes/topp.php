@@ -81,6 +81,7 @@
                 <span class="mr-2 d-none d-lg-inline text-gray-600 small">POS</span>
               </a>
             </li>
+            
 
             <div class="topbar-divider d-none d-sm-block"></div>
 
